@@ -74,7 +74,7 @@ These insights underscore the nuanced dynamics of the Lithuanian real estate mar
 
 ## Visualizations
 - **Density Map of Listings**: An interactive map showing the geographical distribution of listings across Lithuania. ![Density Map](docs/images/lithuania_listings_density_static.png)
-- **Word Cloud of Descriptions**: A visual representation of common keywords found in the property descriptions. [Word Cloud](docs/images/wordcloud_descriptions.png)
+- **Word Cloud of Descriptions**: A visual representation of common keywords found in the property descriptions. ![Word Cloud](docs/images/wordcloud_descriptions.png)
 
 ## License
 This dataset is made available under the [Attribution-NonCommercial 4.0 International license](LICENSE). By using this data, you agree to the terms of this license.
